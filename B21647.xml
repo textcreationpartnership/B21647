@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sixth sermon preach'd before the King and Queen in Their Majesties chappel at St. James's upon the first Wednesday in Lent, Febr. 24, 1685 / by ... Ph. Ellis ...</title>
+            <author>Ellis, Philip, 1652-1726.</author>
+         </titleStmt>
+         <extent>Approx. 40KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21647</idno><idno type="EEBO-CITATION">11230072</idno>
+  <idno type="VID">204921</idno>
+  <idno type="EEBO-PROQUEST">2240943197</idno>
+  
+            <idno type="STC">Wing E602</idno>
+            <idno type="OCLC">11230072</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204921)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sixth sermon preach'd before the King and Queen in Their Majesties chappel at St. James's upon the first Wednesday in Lent, Febr. 24, 1685 / by ... Ph. Ellis ...</title>
+                  <author>Ellis, Philip, 1652-1726.</author>
+               </titleStmt>
+               <extent>[2], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command."</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lenten sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204921:1"/>
+            <pb facs="tcp:204921:1"/>
+            <p>SIXTH SERMON Preach'd before the King and Queen, IN Their MAJESTIES Chappel at St. <hi>James</hi>'s, upon the first <hi>Wednesday</hi> in <hi>Lent,</hi> Febr. 24. 1685.</p>
+            <p>By the Reverend Father <hi>Dom. PH. ELLIS,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congr.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="command">
+                        <p>
+                           <hi>Published by His Majesties Command.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's most Excellent Majesty, for his Houshold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:204921:2"/>
+            <pb n="1" facs="tcp:204921:2"/>
+            <head>SIXTH SERMON Preach'd before the KING and QUEEN, Upon the First <hi>Wednesday</hi> in <hi>Lent,</hi> February 24. 1685.</head>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Viri</hi> Ninivitae <hi>surgent in judicio cum ge<g ref="char:EOLhyphen"/>neratione ista, &amp; condemnabunt eam: quia poenitentiam egerunt in predicati<g ref="char:EOLhyphen"/>one Jonae.</hi>
+                     <bibl>Matth. <hi>12.41.</hi>
+                     </bibl>
+                  </p>
+                  <p>The Men of Ninive shall rise at the Day of Judgment, against this Generation, and condemn it; because they repented at the Preaching of Jonas.
+<bibl>
+                        <hi>Matth. 12.41.</hi>
+                     </bibl>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Holy Fathers (most Sacred Majesty) taking a general View of the sinful World, and diving into the Causes of its Irregula<g ref="char:EOLhyphen"/>rities and Corruptions, divide Sinners into
+<pb n="2" facs="tcp:204921:3"/>three Classes or Degrees. The First consists of such as offend out of <hi>Ignorance,</hi> proceed<g ref="char:EOLhyphen"/>ing from a criminal neglect either of their own, or of their <hi>Teachers.</hi> The Second is composed of such as fall through <hi>Infir<g ref="char:EOLhyphen"/>mity</hi> and Inadvertence; whose Lapses are less hurtful, and more easily recovered. In the last are ranged the <hi>Impenitent</hi> and Ob<g ref="char:EOLhyphen"/>durate, who wanting neither Knowledge of their Duty, nor Divine Assistance to comply with it; neither Strength to stand firm, nor Grace to recover their footing when they are down, stretch themselves on the Ground, fall asleep in the Mire, rest because they will not Think, and owe their <hi>Ease</hi> to their <hi>Insensibility.</hi>
+            </p>
+            <p>To the First sort of these Men we <hi>Preach,</hi> that they may be enlightned; For the Se<g ref="char:EOLhyphen"/>cond we <hi>Pray,</hi>
+               <note place="margin">
+                  <hi>Aug. in En<g ref="char:EOLhyphen"/>chir. cap.</hi> 38.</note> that they may be strength<g ref="char:EOLhyphen"/>ned; But the Last, says St. <hi>Augustine,</hi> we turn over to the Justice of God, <hi>as sinning against the Holy Ghost:</hi> for, <hi>Such as will not shake hands with their Errors and darling Vices,</hi>
+               <note place="margin">
+                  <hi>Bern. Serm.</hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Advent.</hi>
+               </note> says St. Bernard, <hi>will not stretch forth their Arms to embrace the Truth when it pre<g ref="char:EOLhyphen"/>sents it self before them,</hi> are seised with a
+<pb n="3" facs="tcp:204921:3"/>mortal Lethargy, nay with obstinacy of De<g ref="char:EOLhyphen"/>vils, <hi>Obstinatione Diabolica;</hi> and <hi>It is a folly,</hi> adds <hi>Hugo</hi> of S. <hi>Victor,</hi>
+               <note place="margin">
+                  <hi>Hugo Victo<g ref="char:EOLhyphen"/>rin. de Inst. Novit. cap.</hi> 14. Eccle. 1.15.</note>
+               <hi>to go about to Convert them; Obstinatos corripere insipientia est.</hi> In<g ref="char:EOLhyphen"/>deed the Scripture warns us that it is a hard Province; <hi>Perversi difficile corriguntur.</hi> But while the Holy Ghost only declares it very difficult to reduce the Obstinate to a sense of their Misery, the same words that seem to disencourage the <hi>Ʋndertaking,</hi> gives hopes of the <hi>Success.</hi> For tho' we read of a <hi>Nabal</hi> so inebriated with Wine and Pleasures, that neither the peaceful Admonitions of a friendly <hi>David</hi> could perswade, nor the Power of an incensed Enemy could terrifie him, when Destru<g ref="char:EOLhyphen"/>ction was almost at his Gates: Tho' we read of a <hi>Pharaoh</hi> so infatuated with Pride and Presumption, that neither the smooth Tongue of <hi>Aaron,</hi> nor the rough Hand of <hi>Moses;</hi> neither the <hi>Eloquence</hi> of the one, nor the <hi>Chastising Rod</hi> of the other, could mollifie him, when the Judgments of God pour'd in upon him like a Torrent: In fine, tho' in this <hi>Gospel</hi> we behold one of the most astonishing Pieces of <hi>Obduracy</hi> in
+<pb n="4" facs="tcp:204921:4"/>the <hi>Jews,</hi> who after a Devil ejected out of a Possessed Person, and this before their eyes, and this demonstrated to be performed by the Power of God, still call for a <hi>Sign:</hi> Yet after all these Disencouragements, I will not despair of this <hi>Generation,</hi> since a <hi>Ninive</hi> was converted at the Preaching of <hi>Jonas;</hi> since a <hi>Ninive</hi> not only <hi>did Pen<g ref="char:EOLhyphen"/>nance in Sackcloth and Ashes,</hi> but also Preach<g ref="char:EOLhyphen"/>es it to this Generation, before she rise in Judgment against it. If I should compare <hi>this Generation</hi> to the <hi>Ninivites;</hi> this <hi>Me<g ref="char:EOLhyphen"/>tropolis</hi> of our Kingdom, to that Head and Seat of the Famous <hi>Assyrian Monarchy,</hi> it might be a Complement in any other Sub<g ref="char:EOLhyphen"/>ject then that of <hi>Impiety:</hi> But if the Com<g ref="char:EOLhyphen"/>parison were drawn upon the Resemblance of our Lives, it would relish too much of the Satyr; and therefore neither to disgust nor disencourage my Audience, I am desi<g ref="char:EOLhyphen"/>rous to make the <hi>Parallel</hi> upon our <hi>Repen<g ref="char:EOLhyphen"/>tance. Secutus es errantem, sequere poeni<g ref="char:EOLhyphen"/>tentem,</hi> said once a great <hi>Preacher</hi> to a great <hi>Offender,</hi> but a more Illustrious <hi>Peni<g ref="char:EOLhyphen"/>tent.</hi> If we have transcrib'd the Lives of the <hi>Ninivites</hi> with all their Faults, let us not
+<pb n="5" facs="tcp:204921:4"/>be asham'd to correct and blot out the <hi>Er<g ref="char:EOLhyphen"/>rata:</hi> If we have followed close at their Heels in wicked Courses, let us not be asham'd to acknowledge <hi>we are tired in the ways of iniquity,</hi> and sit down with them, if not in <hi>Sackcloth</hi> and <hi>Ashes,</hi> at least to <hi>repent.</hi> We have the same <hi>Opportunity,</hi> it was at a Sermon; the same <hi>Necessity,</hi> as severe Punishment threatned, with this ad<g ref="char:EOLhyphen"/>dition, that those individual Persons <hi>shall rise in judgment against us;</hi> the same <hi>Me<g ref="char:EOLhyphen"/>thod</hi> chalk'd out to us, with this advantage, that it was successful to them, and will cer<g ref="char:EOLhyphen"/>tainly be so to us.
+<label type="milestone">
+                  <seg type="milestoneunit">Division. </seg>
+               </label> Their Sorrow was <hi>hearty,</hi> their Pennance was <hi>exemplary,</hi> their Repentance was <hi>speedy.</hi> The last of which shall be the peculiar Subject of my Second Part: the other Two shall be discoursed in my First; while I endeavour to bring the History of their Conversion home to our selves, after I have begged the Assistance of the <hi>Holy Ghost,</hi> the Author of <hi>Repentance,</hi> by the usual Address to <hi>Innocence, Ave Maria.</hi>
+            </p>
+            <div type="part">
+               <pb n="6" facs="tcp:204921:5"/>
+               <head>The men of Ninive shall rise, &amp;c.</head>
+               <p>IT is obvious to every one within These Walls,
+<milestone type="tcpmilestone" unit="unspecified" n="I"/> that the Son of God made this terrible Commination not only to strike a <hi>Terror</hi> into his Auditors, but also to raise in them a wholesom <hi>Confusion;</hi> not only to reproach their <hi>Stupidity,</hi> but also to ani<g ref="char:EOLhyphen"/>mate them to a generous Emulation; pro<g ref="char:EOLhyphen"/>testing, that if the <hi>Ninivites</hi> could not be an Example to provoke their Repentance, they should one day become their invinci<g ref="char:EOLhyphen"/>ble Accusers. And to what end do's our Holy Mother the Church yearly repeat this Passage of the Gospel, and daily inculcate the Sense of it, but to invite her Children to an Imitation, as the only Plea remain<g ref="char:EOLhyphen"/>ing, as the only Defence we can make against such a <hi>cloud of witnesses,</hi> who will certainly bear us down, and convict us at the Day of Judgment, if they prove not our Instruction in this Day of Salvation.</p>
+               <p>
+                  <hi>Ninive,</hi> the Capital City of the <hi>Assyrian</hi> Monarchy, was the <hi>Babylon</hi> of those Times, Emasculated with a long Peace, Effeminate
+<pb n="7" facs="tcp:204921:5"/>with Ease, dissolv'd in Luxury, Banquet<g ref="char:EOLhyphen"/>ting, and Wantonness, under the Reign of a Sensual Prince, a <hi>Sardanapalus,</hi> whose Life, says the Historian, was <hi>more soft and infamous,</hi> then his Name; <hi>turpior vitâ, quam nomine;</hi> and whose Example had so cor<g ref="char:EOLhyphen"/>rupted the Manners, and stifled the War<g ref="char:EOLhyphen"/>like <hi>Genius</hi> of his People, that they were no longer <hi>formidable,</hi> but for their horrible Excesses; no longer <hi>Masters of the World,</hi> but by drawing others into an imitation of their Crimes; no longer the <hi>Brave Assyri<g ref="char:EOLhyphen"/>ans,</hi> but for defying Heaven, and assailing the Throne of God, not as their Prede<g ref="char:EOLhyphen"/>cessors with the <hi>Tower of Babel,</hi> which they could not finish; but with the height and enormity of their Sins, which they brought to a point;
+<note place="margin">Jon. 1.2.</note>
+                  <hi>Ascendit malitia ejus coram me; Their wickedness is come up before me;</hi> and reaches to Heaven. Now it was high time for <hi>Justice</hi> and <hi>Mercy</hi> to enter into deliberation, whether this Seduced People, and Seducer of Nations, should out of hand be converted or destroy'd; but while the one was preparing its Thunder
+<pb n="8" facs="tcp:204921:6"/>and Lightning, its Showrs of Fire and Brimstone, the other dispatches a <hi>Herald</hi> to warn them of their approaching Ruine. But the Prophet <hi>Jonas,</hi> the Man pitch'd upon to carry the unpleasant Message, out of a Humane Prudence, and too warm a Zeal, declines the Office. He was unwil<g ref="char:EOLhyphen"/>ling to expose his Master's Honor, and his own Person, among a People where he was like to be so little consider'd, that the <hi>God</hi> was as unknown as the <hi>Prophet.</hi> But if possible they should own his <hi>Character,</hi> and take the Subject of his <hi>Embassie</hi> into con<g ref="char:EOLhyphen"/>sideration, That <hi>yet forty days and Ninive shall be destroy'd,</hi> probably they might re<g ref="char:EOLhyphen"/>pent, and more then probably God would pardon them if they did so, and <hi>Ninive</hi> would not be destroy'd, and by necessary consequence <hi>Jonas</hi> must bear the Ignomi<g ref="char:EOLhyphen"/>ny, if a <hi>false Prophet;</hi> which once dete<g ref="char:EOLhyphen"/>cted, as it must be if the Judgment fol<g ref="char:EOLhyphen"/>low not the Sentence, the very <hi>Motive</hi> of their Conversion would prove a dangerous <hi>Temptation</hi> to return to their former Im<g ref="char:EOLhyphen"/>piety. Wherefore the Prophet finding no
+<pb n="9" facs="tcp:204921:6"/>other way to avoid the Points of this <hi>Di<g ref="char:EOLhyphen"/>lemma,</hi> not only flies from the Employ<g ref="char:EOLhyphen"/>ment,
+<note place="margin">Jon. 1.3.</note> but also hopes to <hi>escape from the face of God;</hi> he puts to Sea, makes all the Sail he can, and steers his Course as wide from the Coast of <hi>Assyria,</hi> as the Wind and his Fear could bear off. When behold, the Storm he would not prognosticate to others, was gather'd over his own Head! Besides his own Guilt, the Divine Hand points him out as the Occasion of it; yet he chuses rather to be cast over-board, then to tack about and make for <hi>Ninive;</hi> and tho' a <hi>Whale</hi> was ready to receive him to that end, yet his <hi>Will</hi> and his <hi>Prayers</hi> ran so strong the other way, it was three Days be<g ref="char:EOLhyphen"/>fore she could unload her miraculous Bur<g ref="char:EOLhyphen"/>then upon the detested Shore.</p>
+               <p>But he was no sooner out of the <hi>Whales</hi> Belly, then he enters into himself; and terrified with the Idea of the Dangers he had passed, admiring his own no less won<g ref="char:EOLhyphen"/>derful Stupidity, and revolving his strange Deliverance, <hi>incredible</hi> almost to himself,
+<pb n="10" facs="tcp:204921:7"/>he joyfully embraces the Employment he had so obstinately refus'd, and abating both of his Zeal and Apprehension, he was con<g ref="char:EOLhyphen"/>tented <hi>Ninive</hi> should falsifie his Prediction, and by a timely Repentance prevent the Destruction he was going to denounce.</p>
+               <p>He enters the vast City, and stopping in one of the most frequented Places, he summons the Inhabitants, <hi>Adhuc quadra<g ref="char:EOLhyphen"/>ginta dies &amp; Ninive subvertetur; Yet forty days and Ninive shall be no more.</hi> The no<g ref="char:EOLhyphen"/>velty of the Thing, the strange Figure of the Man, his Mien, as if he had newly risen from the Dead; the particularity of his Habit, as if he came out of another World; the brokenness of his Dialect, soon drew the Herd about him, to listen and gaze a while, and then to laugh; and without doubt the <hi>Wits</hi> and Libertines to rally him, and some in Office to threaten him. But the <hi>Preacher</hi> go's on as insensible to their Affronts, as they were at first to his Do<g ref="char:EOLhyphen"/>ctrine; he follows his Text, and they him, till at last, as <hi>Laughing</hi> and <hi>Crying</hi> are per<g ref="char:EOLhyphen"/>form'd
+<pb n="11" facs="tcp:204921:7"/>with the same <hi>Muscles</hi> of the Eyes and Face, so the same Words which at first provok'd their Laughter, now spread Sorrow, Fear, and Amazement upon their Countenances, and fetch Tears out of their Eyes, but could not work a <hi>thoro' Refor<g ref="char:EOLhyphen"/>mation</hi> in their Hearts; till the Voice of this <hi>Ʋnknown</hi> penetrated thro' the Town into the Court, and reach'd the Ears of the King, <hi>Pervenit verbum ad Regem Ninive.</hi>
+               </p>
+               <p>This King had as little reason as any of his Subjects to be satisfi'd with his own Life, and more reason to apprehend the verity of <hi>Jonas</hi>'s Prediction, being consci<g ref="char:EOLhyphen"/>ous to himself into how dreadful a Preci<g ref="char:EOLhyphen"/>pice his ill Example had drawn a People, never so Complying, never so Obedient to the Prince as in his Vices. In fine, he be<g ref="char:EOLhyphen"/>lieves the threatned Judgment so much more probable, as he knew it was too much deserved. He rises therefore from his Throne, lays by the <hi>Ensigns</hi> of <hi>Majesty,</hi> puts himself in the state and posture of a Cri<g ref="char:EOLhyphen"/>minal, Preaches and Enjoyns the Pennance
+<pb n="12" facs="tcp:204921:8"/>that he Practises; Fasting and Sackcloth become the Mode, the Court and Town are presently in it, and follow it with so much eagerness, vigour and perseve<g ref="char:EOLhyphen"/>rance, that the Storm which was ready to break upon their Heads, disperses of it self, the Heavens clear up, the Anger of God is disarm'd, and as the Prophet foresaw, he draws in the menacing Hand.</p>
+               <p>Let us make a stand here, Christians, and rest a while in Contemplation of a History as Instructive as it is Astonishing; a Record of what pass'd in <hi>Ninive,</hi> an Account of the present State of most Cities in the World, and I hope a Prophecy of our Repentan<g ref="char:EOLhyphen"/>ces. It is like a good Picture, which seems to fix the Eye upon every one that regards it. I promis'd not to offend your Ears with any rude Comparison, or to apply <hi>Cau<g ref="char:EOLhyphen"/>sticks,</hi> to use a burning Iron where a Bal<g ref="char:EOLhyphen"/>sam, a gentle Remedy may work the Cure. Yet I beg leave to put you in mind, that <hi>Ninive</hi> is still threatned, but is not yet de<g ref="char:EOLhyphen"/>stroy'd; that it survives in every City
+<pb n="13" facs="tcp:204921:8"/>whose Impieties, whose Irreligion, whose Extortion, whose insatiable Avarice, and detestable Luxuries, cry to Heaven for Ven<g ref="char:EOLhyphen"/>geance, and to avert whose total <hi>Overthrow</hi> a <hi>Jonas</hi> is dispatch'd. <hi>Et plus quam Jonas hîc.</hi> And how far we are short of <hi>Ninive,</hi> how little we want of equalling their Crimes, and <hi>filling up the number of our Sins,</hi> he only can tell <hi>who is more then Jonas,</hi> who numbers the Sands of the Sea.</p>
+               <p>
+                  <hi>Ninive</hi> a Pagan Town, the Centre and Fountain of Superstition and Idolatry, buried for so many Ages in the darkness of Gentilism, where the <hi>Sun of Justice never shone,</hi> the saving Faith never shed a Beam; amidst an infinity of Deities without the Knowledge of God, labouring under a double Night, of Infidelity and of the blackest Crimes.</p>
+               <p>But <hi>Ninive</hi> at the Preaching of a <hi>Jonas,</hi> a meer Stranger, without any thing to make himself Considerable; a Man never heard of before, a Man contemptible for his Per<g ref="char:EOLhyphen"/>son,
+<pb n="14" facs="tcp:204921:9"/>with Distraction and Amazement in his Countenance, still frothy and reeking from the Belly of the Whale; without any Credentials or Proof of his Mission, with<g ref="char:EOLhyphen"/>out any Miracle to back his Doctrine, or other Testimony to support it, then what he gave himself; and this to a People so little prepar'd to receive it, that in all like<g ref="char:EOLhyphen"/>lihood, he might as well have Preach'd to the Rocks and Waves, from the Entrails of the Leviathan. Yet this <hi>Ʋnknown</hi> Preacheth, these Infidels Believe, these wicked Men, these Monsters of Nature, even <hi>Sardana<g ref="char:EOLhyphen"/>palus</hi> is Converted: <hi>Sardanapalus</hi> sheds manly Tears, <hi>Sardanapalus</hi> do's Pennance; such exemplar Pennance, that the Holy Ghost thought it material to transmit each Circumstance to Posterity; <hi>Surrexit de So<g ref="char:EOLhyphen"/>lio,</hi> says the Text, <hi>He rises from his Throne,</hi> he detests that <hi>unfortunate</hi> Power which enabled him to sin without <hi>controll: Abjecit vestimentum,</hi> he casts the Purple from his Shoulders, which he had not only stain'd, but even drench'd with his repeated Crimes: <hi>Indutus est Sacco,</hi> he changes it for
+<pb n="15" facs="tcp:204921:9"/>Sackcloth, to chastise that Flesh he had so pamper'd and indulg'd: <hi>Et sedit in cinere,</hi> and is not contented till his Mortification is accompanied with the profoundest Humility; and therefore he prostrates and rowls himself in Ashes. <hi>Res admiratione digna, &amp;c.</hi> (cries St. <hi>John Chrysostom</hi>) O what a Spectacle! delightful and new to the Heavens, and worthy the Admira<g ref="char:EOLhyphen"/>tion of the whole Earth! Sackcloth and Haircloth imperiously invade and banish the Purple; Ashes and Dust tarnish the lustre of the Crown. He had Sinn'd, and he Repents like a King. He resolves the Example, which had been such an Incentive to <hi>Vice,</hi> should be no less ex<g ref="char:EOLhyphen"/>citing to <hi>Repentance.</hi> He deposes the Marks, but not the Power of a King. His Obedience to the Voice of God, do's not abate of his Authority with his People: While he lies prostrate as a <hi>Criminal,</hi> he Enacts Laws, and Enjoyns a solemn Fast thro' all his Dominions; <hi>Homines &amp; ju<g ref="char:EOLhyphen"/>menta non gustent quicquam.</hi> And when did he issue forth this <hi>Proclamation?</hi> after he
+<pb n="16" facs="tcp:204921:10"/>had call'd a Board to debate it, after he had taken the thing into Deliberation, or Advis'd with his Council and Sages? No, says the Text, <hi>Et pervenit Verbum,</hi> as soon as this Word came to his Ear, without ballancing, without hesitation, <hi>Motu proprio,</hi> immediately at the very in<g ref="char:EOLhyphen"/>stant he falls to work: He was already doing Pennance while he was command<g ref="char:EOLhyphen"/>ing it; binding his People to comply first by <hi>Example,</hi> and then by <hi>Precept.</hi>
+               </p>
+               <p>But where is it that I speak? Is it not to a Christian Assembly, to a Christian Town, an ancient Theatre of Religion, and once the Metropolis of this Kingdom as well in Piety as in Grandeur and Commerce? Is it not to a Court once Peopled with Saints, once a Nursery of Heaven, illustra<g ref="char:EOLhyphen"/>strated with the Morning-brightness of the Gospel, and reflecting its Light thro' the whole World? Is it not before the Successor of St. <hi>Lucius,</hi> the first Christian King, and to the first Christian Kingdom of the <hi>Western</hi> World? Is it not to a Peo<g ref="char:EOLhyphen"/>ple
+<pb n="17" facs="tcp:204921:10"/>early Born into, and long Edu<g ref="char:EOLhyphen"/>cated in the Bosom of the Church, having Kings for <hi>Nursing Fathers,</hi> and Queens for <hi>Nursing Mothers,</hi> nou<g ref="char:EOLhyphen"/>rish'd with the <hi>Bread of Heaven,</hi> and the <hi>Fat of the Earth?</hi> and yet amidst such an overflow of Divine Blessings, such infallible Helps, such efficacious Sacraments, such moving Exhortati<g ref="char:EOLhyphen"/>ons, we remain unshaken to the Me<g ref="char:EOLhyphen"/>naces, insensible to the Promises, re<g ref="char:EOLhyphen"/>bellious to the Light, and deaf to the Voice, not of a <hi>Jonas,</hi> but of a <hi>JESƲS.</hi> One unknown Preacher Converted the most Heathenish, the most corrupted, the most populous City of the World, at one Sermon; while we who speak your own Language, nay even your own Sence; Preach what you believe, and Menace what you apprehend; speak what you know to be just and reasonable; We, whose <hi>Mission</hi> you acknowledge, whose <hi>Character</hi> you re<g ref="char:EOLhyphen"/>verence, whose <hi>Authority</hi> you do not dispute, Think it a great Victory if we
+<pb n="18" facs="tcp:204921:11"/>Convert the meanest of this crouded Auditory, after a <hi>hundred</hi> Sermons. And do you wonder that the <hi>Ninivites shall rise in the day of Judgment against</hi> this more <hi>Criminal,</hi> (I must say it) because more <hi>Obdurate</hi> Generation; which amidst so much knowledge of its Duty, amidst such pressing Motives, such strong Convictions, such cogent Arguments, such illustrious Examples, puts off its Repentance from day to day? But to press this is my Second Point.</p>
+            </div>
+            <div type="part">
+               <p>It was a notable Advice,
+<milestone type="tcpmilestone" unit="unspecified" n="II"/> and becom<g ref="char:EOLhyphen"/>ing its Author,
+<note place="margin">Eccles. 5.8.</note> the wisest of Men, <hi>Non tardes converti; Do not slacken to be converted to our Lord, nor put it off from day to day.</hi> For one of the most crafty Slights of the Devil to keep an unhap<g ref="char:EOLhyphen"/>py Soul in his possession, one of the falsest Steps we make, one of the most dangerous Errors we slide into, is the deferring our Repentance from time to time, till it be past <hi>time.</hi> An Error not
+<pb n="19" facs="tcp:204921:11"/>only most pernicious, because in the highest Concern, but also the most wicked, as proceeding not from Sur<g ref="char:EOLhyphen"/>prise, Weakness, Inadvertence, or Ig<g ref="char:EOLhyphen"/>norance, (the Heads whence other Mi<g ref="char:EOLhyphen"/>stakes arise) but springing from the most affected Wilfulness, and down<g ref="char:EOLhyphen"/>right Malice. People will not believe daily Experience, will not credit their common Sense, will not hearken to their own Reason and Conviction; but in despite of Sense, Reason, Con<g ref="char:EOLhyphen"/>science, and Experience, will still per<g ref="char:EOLhyphen"/>sist in a vain and groundless Presumpti<g ref="char:EOLhyphen"/>on, That <hi>after forty days their Ninive shall not be destroy'd;</hi> that they shall have a much longer time to repent in. Yet you see Funerals pass every day under your Windows, you meet them in the Streets; you behold your Friends, your Children, your Husbands and your Wives expiring under your Roofs, gi<g ref="char:EOLhyphen"/>ving up the Ghost in your Arms; you see them die, who had as much reason to promise themselves a longer Date of
+<pb n="20" facs="tcp:204921:12"/>Life; you see them die, you see <hi>Ni<g ref="char:EOLhyphen"/>nive</hi> fall, (for when one dies, all the World dies to him) you see them die unprepar'd, one without any sense of a future Life, another in Despair; one is suddenly cut off, another falls in a Du<g ref="char:EOLhyphen"/>el, in Drink, in Adultery: And these are dreadful, but late and almost daily Examples. You see them die impeni<g ref="char:EOLhyphen"/>tent, and hear them bid you beware of the same Presumption, which brought them to their eternal Ruine; and yet you are deaf to all Persuasions. And if you will be so, who can help it? But then you must not wonder that the <hi>Ninivites</hi> shall rise at the Day of Judg<g ref="char:EOLhyphen"/>ment against you; for they repented at the Preaching, at the first Sermon of <hi>Jonas.</hi> Besides, they had forty days al<g ref="char:EOLhyphen"/>low'd them to prevent their Ruine; but you hear Truth it self protesting, that you neither <hi>do,</hi> nor <hi>shall know,</hi> not only a certain Period of days to prepare your selves in, but not so much as <hi>one day,</hi>
+                  <note place="margin">Matth. 25.13.</note> no <hi>not an hour; Nescitis diem neque
+<pb n="21" facs="tcp:204921:12"/>horam.</hi> You hear the Judge menacing that Death, that Judgment shall steal upon you <hi>like a thief in the night,</hi>
+                  <note place="margin">Apoc. 16.15.</note> that is, when you rest securely, and dream of no such thing; when you are dis<g ref="char:EOLhyphen"/>solv'd in your Pleasures, when you are intoxicated with Wine, when you are extended in Wantonness, that even this Night perhaps your Soul shall be ra<g ref="char:EOLhyphen"/>vish'd from you, <hi>Stulte hâc nocte, &amp;c.</hi>
+                  <note place="margin">Luc. 12.20.</note> and yet in the sound of this dreadful Alarm, in sight of the threatning Hand which is writing your Sentence upon the Wall of your Chamber, upon the brink of this frightful Precipice you lie as supinely, as unconcern'd, as <hi>if you had the Works of the Just,</hi> or rather as if you were already dead, and asleep,
+<note place="margin">Aug.</note> not in your Beds, but in your Graves, <hi>Ad tan<g ref="char:EOLhyphen"/>tum tonitruum qui non evigilat, non dor<g ref="char:EOLhyphen"/>mit, sed mortuus est.</hi>
+               </p>
+               <p>This Stupidity, this affected Insen<g ref="char:EOLhyphen"/>sibility of ours, provok'd our Blessed Saviour to such a Degree, that, con<g ref="char:EOLhyphen"/>trary
+<pb n="22" facs="tcp:204921:13"/>to his usual Meekness, he calls such People <hi>Fools, Stultos,</hi> insensate, stu<g ref="char:EOLhyphen"/>pid, brutish, and irrational, beyond all that can be imagin'd. Your God is your <hi>Accuser,</hi> and the <hi>Ninivites</hi> are your <hi>Judges;</hi> but you pronounce the Sentence upon your selves; all the other Actions of your Life are your Condemnation. For who of you all is so senseless as to trust the smallest Temporal Concern to so great a ha<g ref="char:EOLhyphen"/>zard, as to expose your Life and your Estate, when you may easily secure and enjoy both the one and the other, and to run the risque of losing all, for want of a little Care, of Compounding for a small Fine, a little Trouble, a well<g ref="char:EOLhyphen"/>tim'd Sigh, or a seasonable Tear? Should your House take Fire, and your Friends and Neighbors run in to give you no<g ref="char:EOLhyphen"/>tice of it, before the spreading Flame has taken hold of the main Timber; would you phlegmatickly reply, There is no haste in the Business, it will be time enough to bring the Engines
+<pb n="23" facs="tcp:204921:13"/>when the Fire has reached the Founda<g ref="char:EOLhyphen"/>tions? Would a Man need a great Stock of Philosophy to convince you that you are a <hi>Fool,</hi> or a Madman, which is all one, since Madness is but a <hi>raging Folly?</hi> Why, your Soul is all in a Flame with a long Habit of Sin; <hi>Ignis in os<g ref="char:EOLhyphen"/>sibus;</hi> you are burnt up with unlawful and lawless Desires, with Passions more raging and more destroying then Fire. The <hi>Preacher</hi> comes as a Friend to ad<g ref="char:EOLhyphen"/>vertise you of it, bids you make haste to stop the Conflagration, lest it swal<g ref="char:EOLhyphen"/>low you up in <hi>unquenchable Flames.</hi> You bid him not trouble you with that yet a while, Thirty or Forty years hence perhaps you may give him a hearing, that is to say, speaking your Sense in the other Circumstance, Let me alone till the Fire has insinuated it self into the very Heart of the Building, till it has taken such hold upon me, that it will be impossible to lay it, impossible to rescue me from the devouring Ele<g ref="char:EOLhyphen"/>ment, beyond hopes of your Assistance,
+<pb n="24" facs="tcp:204921:14"/>or Power to help my self, when Hor<g ref="char:EOLhyphen"/>ror reigns without, and Confusion within, till I know not where I am, what to do, which way to turn me, which way to go about to draw Tears out of my parched Eyes, or press Sor<g ref="char:EOLhyphen"/>row out of my petrified Heart, which is the only Water can quench the Cri<g ref="char:EOLhyphen"/>minal Flame.</p>
+               <p>
+                  <hi>Stulte!</hi> Foolish and insensate Man! Should you find your self overcharg'd with a heavy Burthen, which even grows upon your Shoulders, and which you are oblig'd to carry, or sink; would you refuse to stir a Step while you are in the Flower of your Age, in the height of your Strength? Would you tell such as advise you to <hi>work while it is yet day,</hi>
+                  <note place="margin">John 9.4.</note>
+                  <hi>before night come upon you,</hi> to get to your Journeys end as soon as you can, That it is time enough, you will begin when you grow Old? that is to say, you will begin when you should end, when your Nature is de<g ref="char:EOLhyphen"/>cay'd,
+<pb n="25" facs="tcp:204921:14"/>your Spirits exhausted, your Nerves debilitated, and have more need of being carried your self. Sinner, your Crimes are a great Load:
+<note place="margin">Psal. 37.5.</note>
+                  <hi>Sicut onus grave gravata sunt super me;</hi> Even your God, <hi>the Strong one of Israel,</hi> groans un<g ref="char:EOLhyphen"/>der the Weight, he can bear them no longer; he gives you warning that he is just ready to withdraw the Hand of his long-suffering patience, and leave you to your self;
+<note place="margin">Gal. 6.5.</note>
+                  <hi>Ʋnusquisque onus su<g ref="char:EOLhyphen"/>um portabit.</hi> 'Tis in your own choice whether you will, now you have strength and opportunity, work them off, and lay them down at the foot of the Cross, by embracing a Penitential Life, or sweat under them till they sink you into Hell. And do you still deliberate upon the Point? Is the Matter so difficult, is the Case so perplex'd, that you can<g ref="char:EOLhyphen"/>not tell which Party to take? or rather, is not the Necessity so evident, so pres<g ref="char:EOLhyphen"/>sing, so irresistible, that to demur one Day upon it, is to renounce as well your <hi>Senses</hi> as your <hi>Faith,</hi> as well your
+<pb n="26" facs="tcp:204921:15"/>
+                  <hi>Reason</hi> as <hi>Religion?</hi> You promise your selves late Years to repent in, when you have not the assurance of one Day; Is not this as great a Shock to <hi>Reason,</hi> as it is an Affront to <hi>Religion?</hi> Is it not to invade the Prerogative of God, by <hi>pla<g ref="char:EOLhyphen"/>cing the times and moments in your own power and disposition?</hi> And certainly those Purposes of Repentance you so much relie on, those Resolutions you so often break and so often renew, those Promises which have so often deceiv'd both your self and your Confessor, can<g ref="char:EOLhyphen"/>not be true, real and unfeigned, if the <hi>Term</hi> you assign be false and imagina<g ref="char:EOLhyphen"/>ry. But there is no such thing as <hi>Forty years hence,</hi> there is no such thing as <hi>Twenty years hence,</hi> there is no such thing as <hi>To morrow:</hi> Procrastinated Repen<g ref="char:EOLhyphen"/>tance is <hi>nothing,</hi> but a present Impeni<g ref="char:EOLhyphen"/>tency.</p>
+               <p>Now go and complain you are hard<g ref="char:EOLhyphen"/>ly dealt with, you have not time allow'd you to <hi>repent,</hi> because you have not
+<pb n="27" facs="tcp:204921:15"/>more Years allow'd you to <hi>offend:</hi> Com<g ref="char:EOLhyphen"/>plain that the <hi>Ninivites</hi> had more fa<g ref="char:EOLhyphen"/>vour shew'd them then you have, be<g ref="char:EOLhyphen"/>cause they had <hi>Forty days,</hi> and you have had <hi>Forty years.</hi> Quarrel with the Di<g ref="char:EOLhyphen"/>vine Providence, because <hi>they</hi> were call'd, and repented the <hi>first day;</hi> you were call'd the first, and think much to repent on the last. Be very angry at the Preacher for discomposing you, and stopping you short in the career of your Sins, with a Whisper in your Ear, That the Term is just expiring, that the Sword is unsheath'd over your Head, and the Hand of Vengeance is lifted up to give you the fatal Blow: Tell him he is trou<g ref="char:EOLhyphen"/>blesom and impertinent, because he does you the best Office in the World, and bid him go Preach to <hi>Ninive.</hi>
+               </p>
+               <p>He has done, and is ready to leave the <hi>Chair;</hi> but assure your selves, the Men of <hi>Ninive</hi> will immediately suc<g ref="char:EOLhyphen"/>ceed in his Place; you shall not be able to impose Silence upon them, their
+<pb n="28" facs="tcp:204921:16"/>Voice shall ring in your Ears, either till their Preaching convert, or their Sen<g ref="char:EOLhyphen"/>tence burst your Hearts. They shall follow you thro' all the windings and mazes of Sin, they shall meet you in every crooked path which themselves traced out, and you follow; They know your Haunts, which themselves fre<g ref="char:EOLhyphen"/>quented; They shall meet you at the Theatre, at the Masquerade, at the Rendezvouz, at the Gaming house, at the Tavern; They shall insinuate them<g ref="char:EOLhyphen"/>selves in your Cabinets, and your most studied Recesses shall not exclude them. <hi>Clamabunt etenim &amp; non silebunt;</hi> Their <hi>Sackcloth</hi> shall confound your Niceness and Gallantry; Their <hi>Ashes</hi> shall con<g ref="char:EOLhyphen"/>demn your Pride and Vanity; Their <hi>Fasting</hi> shall upbraid your Gluttony and Drunkenness; Their <hi>Humiliation</hi> shall check your Ambition; Their <hi>Sighs</hi> shall play the Ground to your Musick and Merriment in this time of Sorrow; Their <hi>ready Obedience</hi> to the Voice of the <hi>Preacher,</hi> shall ex<g ref="char:EOLhyphen"/>probrate
+<pb n="29" facs="tcp:204921:16"/>the insensibility of your seared Hearts; And their <hi>Examples</hi> shall give the Lye to all your Excuses. In fine, those lamentable Cries of Men, Wo<g ref="char:EOLhyphen"/>men, Children, and Animals, suing to the Throne of Mercy to prevent the Overthrow of that City, shall cry Ven<g ref="char:EOLhyphen"/>geance against this, and eccho it thro' the whole World, that God desires not the Damnation of <hi>Christians,</hi> who was so Merciful to <hi>Heathens;</hi> That you deserve indeed not so much warning, because your whole Life has been one continued Advertisement; That be<g ref="char:EOLhyphen"/>cause they offended against the Law of Nature, they deserv'd an Eternity of Suffering, and to pass out of one Dark<g ref="char:EOLhyphen"/>ness into another: But because you have openly resisted the Holy Ghost, <hi>Rebelles lumini,</hi> Miserable, not for want of Light, but Impious because you rebell'd against it, you have merited the <hi>Outward darkness,</hi> the <hi>Nether hell.</hi> Yet to shew that <hi>God wills not the death of a Sinner, but rather that he should be con<g ref="char:EOLhyphen"/>verted
+<pb n="30" facs="tcp:204921:17"/>and live; Extendit terminos tuos,</hi> He suspends the Sentence of your Con<g ref="char:EOLhyphen"/>demnation till the remainder of this <hi>Forty days,</hi> this <hi>Penitential Season</hi> is elapsed; and sends his <hi>Prophets,</hi> the <hi>Interpreters of his Word,</hi> to acquaint you with the peremptory Term.</p>
+               <p>And now to sum up this Discourse, as Moses did all his Remonstrance to the People of <hi>Israel,</hi>
+                  <note place="margin">Deut. 30.19.</note>
+                  <hi>Testes invoco bodie coelum &amp; terram, quod proposuerim vobis vitam &amp; mortem,</hi> &amp;c. <hi>I take heaven and earth to witness, that I have proposed to you life and death,</hi> and set the Blessings and the Judgments of God before your Eyes, and within your reach, to stretch out your Hand to which you please; The <hi>Heavens,</hi> which are Peopled with Saints, who <hi>desir'd to see those things which you see,</hi>
+                  <note place="margin">Mat. 13.17.</note>
+                  <hi>and did not see them; to hear those things which you hear, and did not hear them;</hi> who were destitute of the many Advan<g ref="char:EOLhyphen"/>tages which you enjoy; The <hi>Earth,</hi> a great part of whose Inhabitants is still
+<pb n="31" facs="tcp:204921:17"/>cover'd with <hi>Egyptian</hi> Darkness, and in<g ref="char:EOLhyphen"/>volv'd in the Sins of <hi>Ninive,</hi> yet at the first Sermon would repent in <hi>Sackcloth and Ashes.</hi> And I call even <hi>Hell</hi> to witness, which is Throng'd with so many justly Con<g ref="char:EOLhyphen"/>demn'd for Crimes incomparably less then you daily commit; That God has not been wanting on his part, that the Bow<g ref="char:EOLhyphen"/>els of his <hi>Mercy</hi> are as fruitful, that his <hi>Arms</hi> are as much extended, that his <hi>Heart</hi> is as open, that his <hi>Call</hi> is as vigorous, that his <hi>Hand</hi> is as powerful and as ready to save this Generation, as when he pardon'd the <hi>Ninivites,</hi> whom we Copy in our Vices, and who sit to us as a perfect Model of a <hi>hearty,</hi> of an <hi>exemplar,</hi> and of a <hi>speedy</hi> Re<g ref="char:EOLhyphen"/>pentance,</p>
+               <p>
+                  <hi>Which God of his infinite Mercy,</hi> &amp;c.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:204921:18"/>
+            <head>ADVERTISEMENT.</head>
+            <p>IN the First Sermon Preach'd before their Maje<g ref="char:EOLhyphen"/>sties at <hi>Windsor, pag.</hi> 18, <hi>&amp;</hi> 19. are these follow<g ref="char:EOLhyphen"/>ing Clauses. <hi>And tho' Almighty God, by inforcing this Precept</hi> (of the Love of Himself) <hi>with so many almost Synonimous Words, intended principally to sink this First and Greatest Commandment deeper into our Hearts; yet it has produc'd so contrary an Effect, even in the Minds of Learned Men, that some have not wanted Confidence to pronounce the Commandment Impossible.</hi>] This Sermon was Printed in the Words it was spoke, (tho' some endeavour to persuade the contrary;) I alledg'd no Authors then, and thought the Critical Reader would not have call'd upon me, to produce those <hi>Learned Men,</hi> it being the Do<g ref="char:EOLhyphen"/>ctrine in so many late Writers, and so much in<g ref="char:EOLhyphen"/>sisted on, and so frequently repeated by <hi>Martin Lu<g ref="char:EOLhyphen"/>ther;</hi>
+               <note place="margin">Cens. Paris. de Praec. Le<g ref="char:EOLhyphen"/>gis Prop. 1.</note>
+               <hi>Qui negat Deum nobis impossibile jussisse, pessimè facit, &amp; qui hoc falsum esse dicit, plusquam pessimè facit: He that denies God hath commanded what is impossible, do's very ill; and he that says, This is false, do's still worse.</hi> And he instances in the Com<g ref="char:EOLhyphen"/>mandment of the Love of God with all the Heart, <hi>&amp;c.</hi> and <hi>Non concupisces, Thou shalt not covet;</hi> which he frequently declares cannot be observ'd in this Life. It follows in the Sermon, <hi>Indeed if he that lays it upon us, did not withal promise us Strength to per<g ref="char:EOLhyphen"/>form it,</hi> Pelagius <hi>and his Followers would never have been condemn'd for that Doctrine.</hi> Where it is visi<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:204921:18"/>
+               <hi>That</hi> is put for <hi>Their,</hi> by an oversight of the Corrector; the Sense of the two Clauses being, That if God, who lays the Commandment upon us, did not give us Grace to perform it, neither <hi>Luther, &amp;c.</hi> would have err'd in declaring it Impossible, nor <hi>Pe<g ref="char:EOLhyphen"/>lagius</hi> have been condemn'd for teaching, That it might be fulfill'd by the Strength of Nature, with<g ref="char:EOLhyphen"/>out the Assistance of Grace: For, take away the Ef<g ref="char:EOLhyphen"/>ficacy of Grace, it matters not which of the two Opinions prevails, whether the <hi>unperforming</hi> Grace of <hi>Luther,</hi> or the <hi>No-Grace,</hi> or at the most the <hi>non-necessary</hi> Grace of <hi>Pelagius.</hi> This is the Sense of the Proposition; and it could be no other; my Business being to shew how the Doctrine of the Church runs between these two Extreams (an Impossibility with Grace, and a Possibility without Grace);
+<note place="margin">Aug. de Nat. &amp; Grat. c. 4.3.</note>
+               <hi>Non enim Deus impossibilia jubet, sed jubendo admonet, &amp; fa<g ref="char:EOLhyphen"/>cere quod possis, &amp; petere quod non possis: For God do's not command impossible things; but by his Com<g ref="char:EOLhyphen"/>mand he admonisheth us to do what we can, and to call upon him to enable us in what we cannot do.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:204921:19"/>
+            <head>A Catalogue of Books Printed for <hi>Henry Hills,</hi> Printer to the King's most Excel<g ref="char:EOLhyphen"/>lent Majesty, for his Houshold and Chappel, 1686.</head>
+            <list>
+               <item>REflections upon the Answer to the <hi>Papist Mis-represented &amp;c.</hi> Directed to the Answerer. <hi>Quarto.</hi>
+               </item>
+               <item>
+                  <hi>Kalendarium Catholicum</hi> for the Year 1686. <hi>Octavo.</hi>
+               </item>
+               <item>
+                  <hi>Papists</hi> Protesting against <hi>Protestant-Popery.</hi> In Answer to a Discourse Entituled, <hi>A Papist not Mis-represented by Pro<g ref="char:EOLhyphen"/>testants.</hi> Being a Vindication of the <hi>Papist Mis-represented</hi> and <hi>Represented,</hi> and the <hi>Reflections</hi> upon the Answer. <hi>Quart.</hi>
+               </item>
+               <item>Copies of Two Papers Written by the late King <hi>Charles</hi> II. Together with a Paper Written by the late Dutchess of <hi>York.</hi> Published by his Majesty's Command. <hi>Folio.</hi>
+               </item>
+               <item>The Spirit of Christianity. Published by his Majesty's Com<g ref="char:EOLhyphen"/>mand. <hi>Twelves.</hi>
+               </item>
+               <item>The first Sermon Preach'd before their Majesties in <hi>English</hi> at <hi>Windsor,</hi> on the first <hi>Sunday</hi> of <hi>October</hi> 1685. By the Re<g ref="char:EOLhyphen"/>verend Father <hi>Dom. P. E.</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congregation. Published by his Majesty's Command. <hi>Quarto.</hi>
+               </item>
+               <item>Second Sermon Preached before the King and Queen, and Queen Dowager, at Their Majesties Chappel at St <hi>James</hi>'s, <hi>November</hi> 1, 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congregation. Published by his Majesty's Com<g ref="char:EOLhyphen"/>mand. <hi>Quarto.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:204921:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
